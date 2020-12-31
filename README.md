@@ -8,7 +8,7 @@
 <a href="https://www.acmicpc.net/user/lms0806">백준 / </a>
 <a href="https://solved.ac/profile/lms0806">솔브드AC</a>
 
-#수상경력
+<h2>수상경력
 --2020 서원코딩페스티벌 대상--
 
 
