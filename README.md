@@ -8,9 +8,8 @@
 <a href="https://www.acmicpc.net/user/lms0806">백준 / </a>
 <a href="https://solved.ac/profile/lms0806">솔브드AC</a>
 
-<h2>수상경력</h2>
---2020 서원코딩페스티벌 대상--
-
+<h2>교내 수상경력</h2>
+#2020 서원코딩페스티벌 대상
 
 <!--
 **lms0806/lms0806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
