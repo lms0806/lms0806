@@ -11,11 +11,11 @@
 <a href="https://solved.ac/profile/lms0806">솔브드</a>
 
 <h2>참가 학습</h2>
-### 충북대학교 오픈소스 SW 
+#충북대학교 오픈소스 SW <br>
 
 <h2>교내 수상경력</h2>
-### 2019 서원코딩페스티벌 3등 <br>
-### 2020 서원코딩페스티벌 대상 <br>
+#2019 서원코딩페스티벌 3등 <br>
+#2020 서원코딩페스티벌 대상 <br>
 
 <!--
 **lms0806/lms0806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
