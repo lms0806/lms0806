@@ -8,7 +8,11 @@
 <a href="https://www.acmicpc.net/user/lms0806">백준 / </a>
 <a href="https://solved.ac/profile/lms0806">솔브드AC</a>
 
+<h2>참가 학습</h2>
+#오픈소스 SW 
+
 <h2>교내 수상경력</h2>
+#2019 서원코딩페스티벌 3등
 #2020 서원코딩페스티벌 대상
 
 <!--
