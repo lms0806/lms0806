@@ -8,7 +8,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flms0806)](https://hits.seeyoufarm.com)
 
 <a href="https://www.acmicpc.net/user/lms0806">백준 / </a>
-<a href="https://solved.ac/profile/lms0806">솔브드AC</a>
+<a href="https://solved.ac/profile/lms0806">솔브드</a>
 
 <h2>참가 학습</h2>
 #오픈소스 SW 
