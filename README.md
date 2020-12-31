@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Statistics](https://github-readme-stats.vercel.app/api?username=cpprhtn&show_icons=true)
+![Statistics](https://github-readme-stats.vercel.app/api?username=lms0806&show_icons=true)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lms0806)](https://github.com/anuraghazra/github-readme-stats)
 
 
