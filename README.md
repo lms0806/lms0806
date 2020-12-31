@@ -20,7 +20,7 @@
 <h2>현재 사용가능 언어</h2>
 C / Java / Javascript
 
-<h2>공부하고자 하는 기술 및 언어<h2>
+<h2>공부하고자 하는 기술 및 언어</h2>
 TensorflowJS / Kotlin
 
 <!--
