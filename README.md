@@ -12,8 +12,8 @@
 #오픈소스 SW 
 
 <h2>교내 수상경력</h2>
-#2019 서원코딩페스티벌 3등
-#2020 서원코딩페스티벌 대상
+#2019 서원코딩페스티벌 3등 <br>
+#2020 서원코딩페스티벌 대상 <br>
 
 <!--
 **lms0806/lms0806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
