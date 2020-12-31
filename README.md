@@ -5,6 +5,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=lms0806&theme=chalk&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lms0806)](https://solved.ac/xkzl9830)
 
+<a href="https://www.acmicpc.net/user/lms0806">백준 / </a>
 <a href="https://solved.ac/profile/lms0806">솔브드AC</a>
 
 
