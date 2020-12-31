@@ -17,6 +17,12 @@
 #2019 서원코딩페스티벌 3등 <br>
 #2020 서원코딩페스티벌 대상 <br>
 
+<h2>현재 사용가능 언어</h2>
+C / Java / Javascript
+
+<h2>공부하고자 하는 기술 및 언어<h2>
+TensorflowJS / Kotlin
+
 <!--
 **lms0806/lms0806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
