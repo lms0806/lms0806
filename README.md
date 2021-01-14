@@ -24,7 +24,7 @@
 C / Java / Javascript / Python
 
 <h2>공부하고자 하는 기술 및 언어</h2>
-TensorflowJS / Kotlin
+TensorflowJS / Spring / Kotlin
 
 <!--
 **lms0806/lms0806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
