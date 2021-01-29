@@ -27,10 +27,15 @@
  - 2021 ~ 동아리 DAS 활동
 
 ## 현재 사용가능 언어
-C / Java / Javascript / Python
+ - C
+ - Java
+ - Javascript
+ - Python
 
 ## 공부하고자 하는 기술 및 언어
-TensorflowJS / Spring / Kotlin
+ - TensorflowJS
+ - Spring
+ - Kotlin
 
 <!--
 **lms0806/lms0806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
