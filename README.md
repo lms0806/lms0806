@@ -32,6 +32,12 @@
  - Javascript
  - Python
 
+## 현재 공부중인 내용
+ - React를 활용한 포토폴리오 사이트
+ - 정보처리기사
+ - 리눅스마스터 2급(1차 clear)
+ - 컴활 1급 (2급 필기 clear)
+
 ## 공부하고자 하는 기술 및 언어
  - TensorflowJS
  - Spring
