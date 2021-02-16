@@ -32,7 +32,7 @@
  - C
  - Java
  - Javascript
- - Python
+ - Python 
 
 ## 현재 공부중인 내용
  - React를 활용한 포토폴리오 사이트
