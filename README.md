@@ -44,7 +44,7 @@
  - TensorflowJS
  - Spring
  - Kotlin
- - React
+ - React.js
  - p5.js
 
 <!--
