@@ -41,7 +41,7 @@
  - 컴활 1급
 
 ## 공부하고자 하는 기술 및 언어
- - TensorflowJS
+ - Tensorflow.js
  - Spring
  - Kotlin
  - React.js
