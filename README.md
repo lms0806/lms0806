@@ -29,8 +29,8 @@
  - 2021 ~ 창업동아리 DAS 활동
 
 ## 현재 사용가능 언어
+ - Java (1순위)
  - C
- - Java
  - Javascript
  - Python 
 
