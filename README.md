@@ -1,4 +1,4 @@
-### Hi there~ 👋
+### Hi there 👋
 
 ![Statistics](https://github-readme-stats.vercel.app/api?username=lms0806&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lms0806&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
