@@ -39,18 +39,18 @@
 
 ## 현재 공부중인 내용
  - p5.js
- - React.js
  - 안드로이드 스튜디오 (Java)
+ - 한이음 프로젝트
+ - JSP 영화예매(도우미) 프로그램
+ - Spring 입문
  - 정보처리기사 실기
  - 리눅스마스터 2급 2차
  - 컴활 1급 필기
 
 ## 공부하고자 하는 기술 및 언어
- - Tensorflow.js
- - Spring
+ - Spring Boot
  - Kotlin
  - React.js
- - p5.js
 
 <!--
 **lms0806/lms0806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
