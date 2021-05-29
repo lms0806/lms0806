@@ -11,7 +11,7 @@
 <a href="https://solved.ac/profile/lms0806">솔브드</a>
 
 ## 백준 JAVA15 랭킹 1등(https://www.acmicpc.net/ranklist/language/107)
-## 백준 JAVA11 랭킹 5등(https://www.acmicpc.net/ranklist/language/93)
+## 백준 JAVA11 랭킹 4등(https://www.acmicpc.net/ranklist/language/93)
 
 ## 교내 수상경력
  - 2019 서원코딩페스티벌 3등 (2019년)
@@ -20,7 +20,7 @@
 ## 교내 활동
  - 2019 ~ 2020 창업동아리 SOC 활동 (2019년 ~ 2020년)
  - 서원코딩자격인증 Coding-Senior (2020년)
- - 2021 ~ 창업동아리 DAS 활동 (2021년)
+ - 2021 ~ 2021 창업동아리 DAS 활동 (2021년)
 
 ## 교외 활동
  - 생활코딩 코딩야학 (2018년)
