@@ -57,7 +57,7 @@
  - React.js
 
 ## Other
-https://activity-graph.herokuapp.com/graph?username=lms0806&area=false&theme=xcode&hide_border=true
+(https://activity-graph.herokuapp.com/graph?username=lms0806&area=false&theme=xcode&hide_border=true)
 <!--
 **lms0806/lms0806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
