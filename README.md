@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=#FF0000&text=lms0806&height=200&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&text=lms0806&height=200&fontSize=100)
 
 ![Statistics](https://github-readme-stats.vercel.app/api?username=lms0806&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lms0806&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
