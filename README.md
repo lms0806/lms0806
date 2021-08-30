@@ -47,15 +47,14 @@
  - Python 
 
 ## 현재 공부중인 내용
- - SQLD
+ - Spring Boot
  - 한이음 프로젝트
- - Spring 입문
  - 정보처리기사 실기
  - 리눅스마스터 2급 2차
  - 컴활 1급 필기
 
 ## 공부하고자 하는 기술 및 언어
- - Spring Boot
+ - SQLD
  - Kotlin
  - React.js
 
