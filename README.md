@@ -59,6 +59,9 @@
  - Kotlin
  - React.js
 
+## 진행중인 프로젝트
+ - React.js + SpringBoot 게시판 프로젝트
+
 ## Other
 ![Github Graph](https://activity-graph.herokuapp.com/graph?username=lms0806&area=false&theme=xcode&hide_border=true)
 <!--
