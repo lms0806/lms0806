@@ -49,6 +49,7 @@
 
 ## 현재 공부중인 내용
  - Spring Boot
+ - React.js
  - 한이음 프로젝트
  - 정보처리기사 실기
  - 리눅스마스터 2급 2차
@@ -57,7 +58,6 @@
 ## 공부하고자 하는 기술 및 언어
  - SQLD
  - Kotlin
- - React.js
 
 ## 진행중인 프로젝트
  - React.js + SpringBoot 게시판 프로젝트
