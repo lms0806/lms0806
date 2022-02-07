@@ -14,10 +14,10 @@
 
 <a href="https://lms0806.tistory.com">블로그 </a>
 
-## 백준 전체 랭킹 186등(https://www.acmicpc.net/ranklist/2)
+## 백준 전체 랭킹 185등(https://www.acmicpc.net/ranklist/2)
 ## 백준 JAVA15 랭킹 1등(https://www.acmicpc.net/ranklist/language/107)
 ## 백준 JAVA11 랭킹 1등(https://www.acmicpc.net/ranklist/language/93)
-## 백준 JAVA8 랭킹 195등(https://www.acmicpc.net/ranklist/language/3/2)
+## 백준 JAVA8 랭킹 169등(https://www.acmicpc.net/ranklist/language/3/2)
 ## 백준 JAVA 랭킹 5등(https://www.acmicpc.net/ranklist/language/1002)
 
 ## 교내 수상경력
