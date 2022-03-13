@@ -14,11 +14,11 @@
 
 <a href="https://lms0806.tistory.com">블로그 </a>
 
-## [백준 전체 랭킹 185등](https://www.acmicpc.net/ranklist/2)
-## 백준 JAVA15 랭킹 1등(https://www.acmicpc.net/ranklist/language/107)
-## 백준 JAVA11 랭킹 1등(https://www.acmicpc.net/ranklist/language/93)
-## 백준 JAVA8 랭킹 169등(https://www.acmicpc.net/ranklist/language/3/2)
-## 백준 JAVA 랭킹 5등(https://www.acmicpc.net/ranklist/language/1002)
+## [백준 전체 랭킹 177등](https://www.acmicpc.net/ranklist/2)
+## [백준 JAVA15 랭킹 1등](https://www.acmicpc.net/ranklist/language/107)
+## [백준 JAVA11 랭킹 1등](https://www.acmicpc.net/ranklist/language/93)
+## [백준 JAVA8 랭킹 129등](https://www.acmicpc.net/ranklist/language/3/2)
+## [백준 JAVA 랭킹 5등](https://www.acmicpc.net/ranklist/language/1002)
 
 ## 백준 대회
  - 준비 진행중
