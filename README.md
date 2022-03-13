@@ -20,6 +20,9 @@
 ## 백준 JAVA8 랭킹 169등(https://www.acmicpc.net/ranklist/language/3/2)
 ## 백준 JAVA 랭킹 5등(https://www.acmicpc.net/ranklist/language/1002)
 
+## 백준 대회
+ - 준비 진행중
+
 ## 교내 수상경력
  - 2019 서원코딩페스티벌 3등 (2019-11-15)
  - 2020 서원코딩페스티벌 대상 (2020-11-20)
