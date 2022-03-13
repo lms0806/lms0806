@@ -63,7 +63,6 @@
 
 ## 공부하고자 하는 기술 및 언어
  - SQLD
- - Kotlin
 
 ## 최종 프로젝트
  - React.js + SpringBoot 게시판 프로젝트
