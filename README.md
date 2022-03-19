@@ -49,14 +49,13 @@
 
 ## 현재 사용가능 언어
  - Java (1순위)
- - C
  - Javascript
+ - C
  - Python 
 
 ## 현재 공부중인 내용
  - Spring Boot
  - React.js
- - 한이음 프로젝트
  - 정보처리기사 실기
  - 리눅스마스터 2급 2차
  - 컴활 1급 필기
