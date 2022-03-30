@@ -21,7 +21,7 @@
 ## [백준 JAVA 랭킹 5등](https://www.acmicpc.net/ranklist/language/1002)
 
 ## 백준 대회
- - 준비 진행중
+ - [준비 진행중](https://www.acmicpc.net/contest/view/792)
 
 ## 교내 수상경력
  - 2019 서원코딩페스티벌 3등 (2019-11-15)
