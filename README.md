@@ -12,7 +12,10 @@
 <a href="https://opgc.me/#/users/lms0806" target="_blank"><img src="https://api.opgc.me/githubs/users/lms0806/tag/?theme=basic" /></a>
 
 <a href="https://www.acmicpc.net/user/lms0806">백준 / </a>
-<a href="https://solved.ac/profile/lms0806">솔브드</a>
+<div align="left">
+	<a href="https://solved.ac/lms0806" target="_blank"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lms0806" alt="solved.ac profile"/></a>
+	<a href="https://solved.ac/lms0806" target="_blank"><img src="http://mazandi.herokuapp.com/api?handle=lms0806" alt="mazandi profile"/></a>
+</div>
 
 <a href="https://lms0806.tistory.com">블로그 </a>
 
