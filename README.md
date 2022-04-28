@@ -68,7 +68,7 @@
  - SQLD
 
 ## 최종 프로젝트
- - React.js + SpringBoot 게시판 프로젝트
+ - React.js + SpringBoot 게시판 프로젝트(https://github.com/lms0806/Springboot-React.js-Stroyboard)
 
 ## Other
 ![Github Graph](https://activity-graph.herokuapp.com/graph?username=lms0806&area=false&theme=xcode&hide_border=true)
