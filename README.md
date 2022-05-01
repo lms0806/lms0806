@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&text=lms0806&height=200&fontSize=100)
+<h2 align="center">👨‍💻 About 👨‍💻</h2>
+<p align="center">
+    <a href="https://lms0806.tistory.com//">
+        <img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://vividswan.github.io"/>
+    </a>
+</p>
 
 ![Statistics](https://github-readme-stats.vercel.app/api?username=lms0806&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lms0806&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
