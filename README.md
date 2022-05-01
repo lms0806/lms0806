@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h2 align="center">👨‍💻 About 👨‍💻</h2>
 <p align="center">
     <a href="https://lms0806.tistory.com//">
