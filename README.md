@@ -18,6 +18,19 @@
 
 <a href="https://lms0806.tistory.com">블로그 </a>
 
+<h4 align="center">📚 Technology Stack 📚</h4> 
+<p align="center">
+  <img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp
+  <img src="https://img.shields.io/badge/-Spring-yellow"/>&nbsp
+  <img src="https://img.shields.io/badge/-SpringBoot-navy"/>&nbsp
+  <img src="https://img.shields.io/badge/-JPA-blue"/>
+  <img src="https://img.shields.io/badge/-MySQL-blue"/>&nbsp
+  <img src="https://img.shields.io/badge/-Vuejs-yellow"/>&nbsp
+   <img src="https://img.shields.io/badge/-Vuex-red"/>&nbsp
+  <img src="https://img.shields.io/badge/-AWS-black"/>&nbsp
+  <img src="https://img.shields.io/badge/-Swagger-navy"/>&nbsp
+ </p>
+
 ## [백준 전체 랭킹 179등](https://www.acmicpc.net/ranklist/2)
 ## [백준 JAVA15 랭킹 1등](https://www.acmicpc.net/ranklist/language/107)
 ## [백준 JAVA11 랭킹 1등](https://www.acmicpc.net/ranklist/language/93)
