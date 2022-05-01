@@ -25,11 +25,14 @@
 	<a href="https://solved.ac/lms0806" target="_blank"><img src="http://mazandi.herokuapp.com/api?handle=lms0806" alt="mazandi profile"/></a>
 </div>
 
-## [백준 전체 랭킹 179등](https://www.acmicpc.net/ranklist/2)
-## [백준 JAVA15 랭킹 1등](https://www.acmicpc.net/ranklist/language/107)
-## [백준 JAVA11 랭킹 1등](https://www.acmicpc.net/ranklist/language/93)
-## [백준 JAVA8 랭킹 99등](https://www.acmicpc.net/ranklist/language/3/2)
-## [백준 JAVA 랭킹 6등](https://www.acmicpc.net/ranklist/language/1002)
+## 백준 랭킹
+|백준|랭킹|
+|:----:|:----:|
+|전체|179|
+|Java|6|
+|Java8|99|
+|Java11|1|
+|Java15|1|
 
 ## 백준 대회
  - [제1회 곰곰컵](https://www.acmicpc.net/contest/view/792)
