@@ -7,6 +7,15 @@
     </a>
 </p>
 
+<h4 align="center">📚 Technology Stack 📚</h4> 
+<p align="center">
+  <img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp
+  <img src="https://img.shields.io/badge/-SpringBoot-navy"/>&nbsp
+  <img src="https://img.shields.io/badge/-JPA-blue"/>
+  <img src="https://img.shields.io/badge/-MySQL-blue"/>&nbsp
+  <img src="https://img.shields.io/badge/-React.js-yellow"/>&nbsp
+ </p>
+
 ![Statistics](https://github-readme-stats.vercel.app/api?username=lms0806&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lms0806&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=lms0806&theme=chalk&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
@@ -17,15 +26,6 @@
 	<a href="https://solved.ac/lms0806" target="_blank"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lms0806" alt="solved.ac profile"/></a>
 	<a href="https://solved.ac/lms0806" target="_blank"><img src="http://mazandi.herokuapp.com/api?handle=lms0806" alt="mazandi profile"/></a>
 </div>
-
-<h4 align="center">📚 Technology Stack 📚</h4> 
-<p align="center">
-  <img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp
-  <img src="https://img.shields.io/badge/-SpringBoot-navy"/>&nbsp
-  <img src="https://img.shields.io/badge/-JPA-blue"/>
-  <img src="https://img.shields.io/badge/-MySQL-blue"/>&nbsp
-  <img src="https://img.shields.io/badge/-React.js-yellow"/>&nbsp
- </p>
 
 ## [백준 전체 랭킹 179등](https://www.acmicpc.net/ranklist/2)
 ## [백준 JAVA15 랭킹 1등](https://www.acmicpc.net/ranklist/language/107)
