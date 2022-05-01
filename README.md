@@ -6,9 +6,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lms0806&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=lms0806&theme=chalk&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flms0806)](https://hits.seeyoufarm.com)
-
 <a href="https://opgc.me/#/users/lms0806" target="_blank"><img src="https://api.opgc.me/githubs/users/lms0806/tag/?theme=basic" /></a>
 
 <div align="left">
@@ -16,19 +13,13 @@
 	<a href="https://solved.ac/lms0806" target="_blank"><img src="http://mazandi.herokuapp.com/api?handle=lms0806" alt="mazandi profile"/></a>
 </div>
 
-<a href="https://lms0806.tistory.com">블로그 </a>
-
 <h4 align="center">📚 Technology Stack 📚</h4> 
 <p align="center">
   <img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp
-  <img src="https://img.shields.io/badge/-Spring-yellow"/>&nbsp
   <img src="https://img.shields.io/badge/-SpringBoot-navy"/>&nbsp
   <img src="https://img.shields.io/badge/-JPA-blue"/>
   <img src="https://img.shields.io/badge/-MySQL-blue"/>&nbsp
-  <img src="https://img.shields.io/badge/-Vuejs-yellow"/>&nbsp
-   <img src="https://img.shields.io/badge/-Vuex-red"/>&nbsp
-  <img src="https://img.shields.io/badge/-AWS-black"/>&nbsp
-  <img src="https://img.shields.io/badge/-Swagger-navy"/>&nbsp
+  <img src="https://img.shields.io/badge/-React.js-yellow"/>&nbsp
  </p>
 
 ## [백준 전체 랭킹 179등](https://www.acmicpc.net/ranklist/2)
@@ -87,6 +78,8 @@
 
 ## Other
 ![Github Graph](https://activity-graph.herokuapp.com/graph?username=lms0806&area=false&theme=xcode&hide_border=true)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flms0806)](https://hits.seeyoufarm.com)
 <!--
 **lms0806/lms0806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
