@@ -21,7 +21,7 @@
 ## [백준 전체 랭킹 179등](https://www.acmicpc.net/ranklist/2)
 ## [백준 JAVA15 랭킹 1등](https://www.acmicpc.net/ranklist/language/107)
 ## [백준 JAVA11 랭킹 1등](https://www.acmicpc.net/ranklist/language/93)
-## [백준 JAVA8 랭킹 100등](https://www.acmicpc.net/ranklist/language/3/2)
+## [백준 JAVA8 랭킹 99등](https://www.acmicpc.net/ranklist/language/3/2)
 ## [백준 JAVA 랭킹 6등](https://www.acmicpc.net/ranklist/language/1002)
 
 ## 백준 대회
