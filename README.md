@@ -38,7 +38,8 @@
 |백준 대회|일자|
 |:----:|:----:|
 |[제1회 곰곰컵](https://www.acmicpc.net/contest/view/792)|2022-05-14|
-|[2022 ICPC Sinchon Summer Algorithm Camp](https://www.acmicpc.net/contest/view/843)|2022-08-23|
+|[2022 ICPC Sinchon Summer Algorithm Camp](https://www.acmicpc.net/contest/view/843)|2022-08-22|
+|준비중|2022-00-00|
 
 ## 교내 수상경력
 | 대회 수상                      | 일자      |
