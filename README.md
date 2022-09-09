@@ -42,7 +42,7 @@
 |:----:|:----:|
 |[제1회 곰곰컵](https://www.acmicpc.net/contest/view/792)|2022-05-14|
 |[2022 ICPC Sinchon Summer Algorithm Camp](https://www.acmicpc.net/contest/view/843)|2022-08-22|
-|준비중|2022-11-xx|
+|준비중|2022-10-xx|
 |준비중|2022-1x-xx|
 |준비중|202x-xx-xx|
 
