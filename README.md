@@ -44,7 +44,7 @@
 |[2022 ICPC Sinchon Summer Algorithm Camp](https://www.acmicpc.net/contest/view/843)|2022-08-22|
 |[제1회 서울과학기술대학교 컴퓨터공학과 알고리즘 대회](https://www.acmicpc.net/contest/view/880)|2022-10-07|
 |[제2회 곰곰컵](https://www.acmicpc.net/contest/view/895)|2022-11-26|
-|준비중|2022-0x-xx|
+|준비중|2023-0x-xx|
 |준비중|202x-xx-xx|
 
 ## 수상경력
