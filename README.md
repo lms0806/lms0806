@@ -75,6 +75,9 @@
  - 충북대학교 SW중심대학사업단 2021년 Git-Github 심화특강 (2021)
  - (2022 ~ ) 알고리즘 문제 출제 및 검수
    - <대회 문제 출제> [제 1회 곰곰컵](https://www.acmicpc.net/category/detail/3121)
+   - <대회 문제 출제> [2022 ICPC Sinchon Summer Algorithm Camp Contest](https://www.acmicpc.net/category/detail/3171)
+   - <대회 문제 출제> [제1회 서울과학기술대학교 컴퓨터공학과 알고리즘 대회](https://www.acmicpc.net/category/detail/3207)
+   - <대회 문제 출제> [제 2회 곰곰컵](https://www.acmicpc.net/category/detail/3232)
 
 ## 자격증
 |자격증명|일자|
