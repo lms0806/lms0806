@@ -77,6 +77,7 @@
    - <대회 문제 출제> [제 1회 곰곰컵](https://www.acmicpc.net/category/detail/3121)
    - <대회 문제 출제> [2022 ICPC Sinchon Summer Algorithm Camp Contest](https://www.acmicpc.net/category/detail/3171)
    - <대회 문제 출제> [제1회 서울과학기술대학교 컴퓨터공학과 알고리즘 대회](https://www.acmicpc.net/category/detail/3207)
+   - <문제 출제> [2000문제 푼 임스](https://www.acmicpc.net/problem/25822)
    - <대회 문제 출제> [제 2회 곰곰컵](https://www.acmicpc.net/category/detail/3232)
 
 ## 자격증
