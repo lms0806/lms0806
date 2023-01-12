@@ -113,8 +113,6 @@
 ## 현재 사용가능 언어
  - Java (1순위)
  - Javascript
- - C
- - Python 
 
 ## 현재 공부중인 내용
  - Spring Boot
