@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/-React.js-yellow"/>&nbsp
  </p>
 
-![Statistics](https://github-readme-stats.vercel.app/api?username=lms0806&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lms0806&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=lms0806&theme=chalk&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lms0806&show_icons=true&theme=transparent)
