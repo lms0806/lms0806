@@ -101,6 +101,7 @@
 	<li><a href="https://www.acmicpc.net/problem/26168">배열 전체 탐색하기</a></li>
 	<li><a href="https://www.acmicpc.net/problem/26169">세 번 이내에 사과를 먹자</a></li>
 	<li><a href="https://www.acmicpc.net/problem/26170">사과 빨리 먹기</a></li>
+	<li><a href="https://www.acmicpc.net/problem/27077">16강과 쿼리</a></li>
 
 ## 자격증
 |자격증명|일자|
