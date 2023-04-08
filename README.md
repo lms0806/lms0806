@@ -116,10 +116,6 @@
  - Java (1순위)
  - C++
 
-## 현재 공부중인 내용
- - Spring Boot
- - React.js
-
 ## 공부하고자 하는 기술 및 언어
  - SQLD
  - C++
