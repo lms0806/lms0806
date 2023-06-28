@@ -26,7 +26,7 @@
 ## 백준 랭킹
 |백준|랭킹|
 |:----:|:----:|
-|전체|86|
+|전체|93|
 |Java|3|
 |Java8|5|
 |Java11|2|
@@ -47,8 +47,9 @@
 |[2022 ICPC Sinchon Summer Algorithm Camp](https://www.acmicpc.net/contest/view/843)|2022-08-22|
 |[제1회 서울과학기술대학교 컴퓨터공학과 알고리즘 대회](https://www.acmicpc.net/contest/view/880)|2022-10-07|
 |[제2회 곰곰컵](https://www.acmicpc.net/contest/view/895)|2022-11-26|
-|[UTiL-Cup](https://www.acmicpc.net/contest/view/985)|2023-06-02|
-|준비중|202x-xx-xx|
+|[2023 브실컵](https://www.acmicpc.net/contest/view/1058)|2023-06-28|
+|UTiL-Cup|2023-0x-xx|
+|임스의 메이플컵|2023-0x-xx|
 
 ## 수상경력
 | 대회 수상                      | 일자      |
