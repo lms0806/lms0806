@@ -47,7 +47,7 @@
 |[2022 ICPC Sinchon Summer Algorithm Camp](https://www.acmicpc.net/contest/view/843)|2022-08-22|
 |[제1회 서울과학기술대학교 컴퓨터공학과 알고리즘 대회](https://www.acmicpc.net/contest/view/880)|2022-10-07|
 |[제2회 곰곰컵](https://www.acmicpc.net/contest/view/895)|2022-11-26|
-|[2023 브실컵](https://www.acmicpc.net/contest/view/1058)|2023-06-28|
+|2023 브실컵|2023-0x-xx|
 |UTiL-Cup|2023-0x-xx|
 |임스의 메이플컵|2023-0x-xx|
 
@@ -82,7 +82,6 @@
    - <문제 출제> [2000문제 푼 임스](https://www.acmicpc.net/problem/25822)
    - <대회 문제 출제 및 검수> [제 2회 곰곰컵](https://www.acmicpc.net/category/detail/3232)
    - <대회 검수> [제 1회 와쿠(AGCU)컵](https://www.acmicpc.net/contest/view/967)
-   - <대회 문제 출제> [제1회 유틸컵](https://www.acmicpc.net/contest/view/985)
    - <기타 검수>
    <details>
    <summary>더보기</summary>
