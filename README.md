@@ -13,7 +13,8 @@
   <img src="https://img.shields.io/badge/-MySQL-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-React.js-yellow"/>&nbsp
  </p>
-
+ 
+[![trophy](https://github-profile-trophy.vercel.app/?username=lms0806&theme=onedark)](https://github.com/lms0806/github-profile-trophy)
 [![trophy](https://github-profile-trophy.vercel.app/?username=lms0806&theme=chalk&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href="https://opgc.me/#/users/lms0806" target="_blank"><img src="https://api.opgc.me/githubs/users/lms0806/tag/?theme=basic" /></a>
