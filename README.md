@@ -44,13 +44,16 @@
 ## 백준 대회
 |백준 대회|일자|
 |:----:|:----:|
-|[제1회 곰곰컵](https://www.acmicpc.net/contest/view/792)|2022-05-14|
+|[제 1회 곰곰컵](https://www.acmicpc.net/contest/view/792)|2022-05-14|
 |[2022 ICPC Sinchon Summer Algorithm Camp](https://www.acmicpc.net/contest/view/843)|2022-08-22|
-|[제1회 서울과학기술대학교 컴퓨터공학과 알고리즘 대회](https://www.acmicpc.net/contest/view/880)|2022-10-07|
-|[제2회 곰곰컵](https://www.acmicpc.net/contest/view/895)|2022-11-26|
-|2023 브실컵|2023-0x-xx|
-|UTiL-Cup|2023-0x-xx|
-|임스의 메이플컵|2023-0x-xx|
+|[제 1회 서울과학기술대학교 컴퓨터공학과 알고리즘 대회](https://www.acmicpc.net/contest/view/880)|2022-10-07|
+|[제 2회 곰곰컵](https://www.acmicpc.net/contest/view/895)|2022-11-26|
+|[제 1회 유틸컵 - Chapter 1](https://www.acmicpc.net/contest/view/985)|2023-08-12|
+|[제 1회 임스의 메이플컵](https://www.acmicpc.net/contest/view/1088)|2023-09-08|
+|[2023 브실컵](https://www.acmicpc.net/contest/view/1058)|2023-09-10|
+|[제 1회 유틸컵 - Chapter 2](https://www.acmicpc.net/contest/view/1079)|2023-09-16 ~ 2023-09-17|
+|제 2회 임스의 메이플컵|2023-1x-xx|
+|제 3회 곰곰컵|2023-1x-xx|
 
 ## 수상경력
 | 대회 수상                      | 일자      |
