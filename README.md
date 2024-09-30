@@ -1,6 +1,6 @@
 <h2 align="center">👨‍💻 About 👨‍💻</h2>
 <p align="center">
-    <a href="https://lms0806.tistory.com//">
+    <a href="https://lms0806.tistory.com/">
         <img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://vividswan.github.io"/>
     </a>
 </p>
