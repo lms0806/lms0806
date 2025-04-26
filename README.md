@@ -17,12 +17,12 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=lms0806&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 [![trophy](https://github-profile-trophy.vercel.app/?username=lms0806&theme=chalk&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href="https://opgc.me/#/users/lms0806" target="_blank"><img src="https://api.opgc.me/githubs/users/lms0806/tag/?theme=basic" /></a>
-
 <div align="left">
 	<a href="https://solved.ac/lms0806" target="_blank"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lms0806" alt="solved.ac profile"/></a>
 	<a href="https://solved.ac/lms0806" target="_blank"><img src="http://mazandi.herokuapp.com/api?handle=lms0806" alt="mazandi profile"/></a>
 </div>
+
+[![BOJ](https://bojstat.vulcan.site/v2/ko/lms0806)](https://www.acmicpc.net/user/lms0806)
 
 ## 백준 랭킹
 |백준|랭킹|
