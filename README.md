@@ -24,17 +24,6 @@
 
 [![BOJ](https://bojstat.vulcan.site/v2/ko/lms0806)](https://www.acmicpc.net/user/lms0806)
 
-## 백준 랭킹
-|백준|랭킹|
-|:----:|:----:|
-|전체|74|
-|Java|2|
-|Java8|1|
-|Java11|2|
-|Java15|1|
-|만든 문제|68|
-|문제 검수|93|
-
 ## 경력
 | 회사 | 근무 |
 | :---: | :---: |
@@ -52,7 +41,8 @@
 |[2023 브실컵](https://www.acmicpc.net/contest/view/1058)|2023-09-10|
 |[제 1회 유틸컵 - Chapter 2](https://www.acmicpc.net/contest/view/1079)|2023-09-16 ~ 2023-09-17|
 |[제 1회 춘배컵](https://www.acmicpc.net/contest/view/1151)|2023-10-28|
-|제 2회 임스의 메이플컵|2024-04-xx|
+|[제 2회 유틸컵](https://www.acmicpc.net/category/detail/4443)|2025-03-02|
+|제 2회 임스의 메이플컵|2025-05-xx|
 |제 3회 곰곰컵|2024-xx-xx|
 |제 1회 임스컵|2024-xx-xx|
 
@@ -80,13 +70,9 @@
  - 충북대학교 SW중심대학사업단 2021년 Git-Github 심화특강 (2021)
  - 우아한 테크코스 프리코스 (2022)
  - 2022 원티드 쇼미더코드 3회 은손 뱃지 (2023)
- - (2022 ~ ) 알고리즘 문제 출제 및 검수
-   - <대회 문제 출제 및 검수> [제 1회 곰곰컵](https://www.acmicpc.net/category/detail/3121)
-   - <대회 문제 출제> [2022 ICPC Sinchon Summer Algorithm Camp Contest](https://www.acmicpc.net/category/detail/3171)
-   - <대회 문제 출제> [제1회 서울과학기술대학교 컴퓨터공학과 알고리즘 대회](https://www.acmicpc.net/category/detail/3207)
-   - <문제 출제> [2000문제 푼 임스](https://www.acmicpc.net/problem/25822)
-   - <대회 문제 출제 및 검수> [제 2회 곰곰컵](https://www.acmicpc.net/category/detail/3232)
+ - (2022 ~ ) 알고리즘 대회 및 문제 검수
    - <대회 검수> [제 1회 와쿠(AGCU)컵](https://www.acmicpc.net/contest/view/967)
+   - <대회 검수> [2024 국민대학교 & 중앙대학교 연합 프로그래밍 경진대회](https://www.acmicpc.net/contest/view/1407)
    - <기타 검수>
    <details>
    <summary>더보기</summary>
@@ -124,12 +110,10 @@
 ## 현재 사용가능 언어
  - Java (1순위)
  - C++
+ - rust
 
 ## 공부하고자 하는 기술 및 언어
- - SQLD
- - C++
- - C#
- - golang
+ - TypeScript
  - rust
 
 ## 최종 프로젝트
