@@ -42,9 +42,10 @@
 |[제 1회 유틸컵 - Chapter 2](https://www.acmicpc.net/contest/view/1079)|2023-09-16 ~ 2023-09-17|
 |[제 1회 춘배컵](https://www.acmicpc.net/contest/view/1151)|2023-10-28|
 |[제 2회 유틸컵](https://www.acmicpc.net/category/detail/4443)|2025-03-02|
-|제 2회 임스의 메이플컵|2025-05-xx|
-|제 3회 곰곰컵|2024-xx-xx|
-|제 1회 임스컵|2024-xx-xx|
+|[제 2회 임스의 메이플컵](https://www.acmicpc.net/contest/view/1503)|2025-05-25|
+|제 3회 곰곰컵|2025-xx-xx|
+|제 1회 임스컵|2025-xx-xx|
+|제 3회 임스의 메이플컵|2025-xx-xx|
 
 ## 수상경력
 | 대회 수상                      | 일자      |
