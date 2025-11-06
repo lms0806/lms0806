@@ -24,7 +24,7 @@
 
 [![BOJ](https://bojstat.vulcan.site/v2/ko/lms0806)](https://www.acmicpc.net/user/lms0806)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lms0806&stats_format=bytes)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lms0806&hide_progress=true)
 
 ## 경력
 | 회사 | 근무 |
