@@ -75,36 +75,6 @@
  - 충북대학교 SW중심대학사업단 2021년 Git-Github 심화특강 (2021)
  - 우아한 테크코스 프리코스 (2022)
  - 2022 원티드 쇼미더코드 3회 은손 뱃지 (2023)
- - (2022 ~ ) 알고리즘 대회 및 문제 검수
-   - <대회 검수> [제 1회 와쿠(AGCU)컵](https://www.acmicpc.net/contest/view/967)
-   - <대회 검수> [2024 국민대학교 & 중앙대학교 연합 프로그래밍 경진대회](https://www.acmicpc.net/contest/view/1407)
-   - <기타 검수>
-   <details>
-   <summary>더보기</summary>
-	<li><a href="https://www.acmicpc.net/problem/23881">알고리즘 수업 - 선택 정렬 1</a></li>
-	<li><a href="https://www.acmicpc.net/problem/23882">알고리즘 수업 - 선택 정렬 2</a></li>
-	<li><a href="https://www.acmicpc.net/problem/23899">알고리즘 수업 - 선택 정렬 5</a></li>
-	<li><a href="https://www.acmicpc.net/problem/23900">알고리즘 수업 - 선택 정렬 6</a></li>
-	<li><a href="https://www.acmicpc.net/problem/23968">알고리즘 수업 - 버블 정렬 1</a></li>
-	<li><a href="https://www.acmicpc.net/problem/23969">알고리즘 수업 - 버블 정렬 2</a></li>
-	<li><a href="https://www.acmicpc.net/problem/23970">알고리즘 수업 - 버블 정렬 3</a></li>
-	<li><a href="https://www.acmicpc.net/problem/24049">정원 (Easy)</a></li>
-	<li><a href="https://www.acmicpc.net/problem/24050">정원 (Hard)</a></li>
-	<li><a href="https://www.acmicpc.net/problem/24051">알고리즘 수업 - 삽입 정렬 1</a></li>
-	<li><a href="https://www.acmicpc.net/problem/24052">알고리즘 수업 - 삽입 정렬 2</a></li>
-	<li><a href="https://www.acmicpc.net/problem/24053">알고리즘 수업 - 삽입 정렬 3</a></li>
-	<li><a href="https://www.acmicpc.net/problem/24064">Intersections</a></li>
-	<li><a href="https://www.acmicpc.net/problem/24065">Present</a></li>
-	<li><a href="https://www.acmicpc.net/problem/24313">알고리즘 수업 - 점근적 표기 1</a></li>
-	<li><a href="https://www.acmicpc.net/problem/24314">알고리즘 수업 - 점근적 표기 2</a></li>
-	<li><a href="https://www.acmicpc.net/problem/24315">알고리즘 수업 - 점근적 표기 3</a></li>
-	<li><a href="https://www.acmicpc.net/problem/26040">특정 대문자를 소문자로 바꾸기</a></li>
-	<li><a href="https://www.acmicpc.net/problem/26041">비슷한 전화번호 표시</a></li>
-	<li><a href="https://www.acmicpc.net/problem/26042">식당 입구 대기 줄</a></li>
-	<li><a href="https://www.acmicpc.net/problem/26168">배열 전체 탐색하기</a></li>
-	<li><a href="https://www.acmicpc.net/problem/26169">세 번 이내에 사과를 먹자</a></li>
-	<li><a href="https://www.acmicpc.net/problem/26170">사과 빨리 먹기</a></li>
-	<li><a href="https://www.acmicpc.net/problem/27077">16강과 쿼리</a></li>
 
 ## 자격증
 |자격증명|일자|
