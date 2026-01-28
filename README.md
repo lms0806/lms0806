@@ -22,6 +22,8 @@
 	<a href="https://solved.ac/lms0806" target="_blank"><img src="http://mazandi.herokuapp.com/api?handle=lms0806" alt="mazandi profile"/></a>
 </div>
 
+[![Git Ranker](https://www.git-ranker.com/api/v1/badges/MDQ6VXNlcjQyMTM2MDU2)](https://www.git-ranker.com/users/lms0806)
+
 [![BOJ](https://bojstat.vulcan.site/v2/ko/lms0806)](https://www.acmicpc.net/user/lms0806)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lms0806&layout=compact)
