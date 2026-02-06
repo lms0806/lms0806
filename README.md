@@ -13,9 +13,6 @@
   <img src="https://img.shields.io/badge/-MySQL-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-React.js-yellow"/>&nbsp
  </p>
- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lms0806&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=lms0806&theme=chalk&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div align="left">
 	<a href="https://solved.ac/lms0806" target="_blank"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lms0806" alt="solved.ac profile"/></a>
@@ -24,16 +21,12 @@
 
 [![Git Ranker](https://www.git-ranker.com/api/v1/badges/MDQ6VXNlcjQyMTM2MDU2)](https://www.git-ranker.com/users/lms0806)
 
-[![BOJ](https://bojstat.vulcan.site/v2/ko/lms0806)](https://www.acmicpc.net/user/lms0806)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lms0806&layout=compact)
-
 
 ## 경력
 | 회사 | 근무 |
 | :---: | :---: |
 | WiseNut | 2023-05-08 ~ 2025-06-13 |
-| Wemade | 2025-07-01 ~ |
+| Wemade Next | 2025-07-01 ~ |
 
 ## 백준 대회
 |백준 대회|일자|
@@ -49,9 +42,9 @@
 |[제 1회 춘배컵](https://www.acmicpc.net/contest/view/1151)|2023-10-28|
 |[제 2회 유틸컵](https://www.acmicpc.net/category/detail/4443)|2025-03-02|
 |[제 2회 임스의 메이플컵](https://www.acmicpc.net/contest/view/1503)|2025-05-25|
+|제 3회 유틸컵|2026-03-xx|
+|제 3회 임스의 메이플컵|2026-04-xx|
 |제 1회 임스컵|2026-xx-xx|
-|제 3회 임스의 메이플컵|2026-xx-xx|
-|제 3회 유틸컵|2026-xx-xx|
 
 ## 수상경력
 | 대회 수상                      | 일자      |
