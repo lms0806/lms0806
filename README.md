@@ -8,8 +8,8 @@
 <h4 align="center">📚 Technology Stack 📚</h4> 
 <p align="center">
   <img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp
+  <img src="https://img.shields.io/badge/-Rust-red"/>&nbsp
   <img src="https://img.shields.io/badge/-SpringBoot-navy"/>&nbsp
-  <img src="https://img.shields.io/badge/-JPA-blue"/>
   <img src="https://img.shields.io/badge/-MySQL-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-React.js-yellow"/>&nbsp
  </p>
