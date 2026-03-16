@@ -21,6 +21,11 @@
 
 [![Git Ranker](https://www.git-ranker.com/api/v1/badges/MDQ6VXNlcjQyMTM2MDU2)](https://www.git-ranker.com/users/lms0806)
 
+## 나는 누구?
+- [포토폴리오](https://lms0806.vercel.app)
+- [링크드인](https://www.linkedin.com/in/minsu-lim-8b798b268)
+- [블로그](https://lms0806.tistory.com)
+
 
 ## 경력
 | 회사 | 근무 |
@@ -42,18 +47,6 @@
 |[제 1회 춘배컵](https://www.acmicpc.net/contest/view/1151)|2023-10-28|
 |[제 2회 유틸컵](https://www.acmicpc.net/category/detail/4443)|2025-03-02|
 |[제 2회 임스의 메이플컵](https://www.acmicpc.net/contest/view/1503)|2025-05-25|
-|제 3회 유틸컵|2026-03-xx|
-|제 3회 임스의 메이플컵|2026-04-xx|
-|제 1회 임스컵|2026-xx-xx|
-
-## 수상경력
-| 대회 수상                      | 일자      |
-| :---------------------------: | :--------: |
-| 2019 서원코딩페스티벌 3등      | 2019-11-15 |
-| 2020 서원코딩페스티벌 대상     | 2020-11-20 |
-| 2021 서원코딩페스티벌 최우수상 | 2021-07-16 |
-| 2021 2차 서원코딩페스티벌 대상 | 2021-11-19 |
-| 2022 Woori 코딩 페스티벌 특별상| 2022-09-23 |
 
 ## 활동
  - 생활코딩 코딩야학 (2018)
@@ -71,35 +64,6 @@
  - 우아한 테크코스 프리코스 (2022)
  - 2022 원티드 쇼미더코드 3회 은손 뱃지 (2023)
 
-## 자격증
-|자격증명|일자|
-|:----:|:----:|
-|정보처리기사|2022-06-17|
-|ADSP|2026-xx-xx|
-|SQLD|2026-xx-xx|
-|리눅스마스터 2급|2026-xx-xx|
-|JLPT N3|2026-xx-xx|
-
 ## 현재 사용가능 언어
  - Java (1순위)
  - Rust
-
-## 공부하고자 하는 기술 및 언어
- - TypeScript
- - Next.js
- - Kotlin
-
-<!--
-**lms0806/lms0806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
