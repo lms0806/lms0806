@@ -22,9 +22,9 @@
 [![Git Ranker](https://www.git-ranker.com/api/v1/badges/MDQ6VXNlcjQyMTM2MDU2)](https://www.git-ranker.com/users/lms0806)
 
 ## 나는 누구?
-- [포토폴리오](https://lms0806.vercel.app)
-- [링크드인](https://www.linkedin.com/in/minsu-lim-8b798b268)
-- [블로그](https://lms0806.tistory.com)
+- [Portfolio](https://lms0806.vercel.app)
+- [Linkedin](https://www.linkedin.com/in/minsu-lim-8b798b268)
+- [Blogs](https://lms0806.tistory.com)
 
 
 ## 경력
