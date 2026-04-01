@@ -26,6 +26,21 @@
 - [Linkedin](https://www.linkedin.com/in/minsu-lim-8b798b268)
 - [Blogs](https://lms0806.tistory.com)
 
+## 프로젝트
+- [Brick-breaker](https://github.com/lms0806/-Brick-breaker) - Python pygame으로 만든 벽돌깨기
+- [Socket Chat](https://github.com/lms0806/socket_chat) - Rust로 만든 채팅 서버 클라 프로그램
+- [Tui Video](https://github.com/lms0806/tui_video) - youtube 영상을 터미널에서 실행하는 프로그램
+- [MapleStroy Overlay](https://github.com/lms0806/maplestory_overlay) - MapleStory 화면 위에 전투력을 띄우는 프로그램
+- [Apple Game](https://github.com/lms0806/apple_game) - 숫자가 적힌 여러 개의 사과를 합쳐 10을 만드는 사과 게임 사이트
+- [Live Streaming Multi View](https://github.com/lms0806/live_streaming_multi_view) - 최대 4개의 화면을 분할하여 스트리밍 시청이 가능한 사이트
+- [Versatile Web](https://github.com/lms0806/Versatile_Web) - 개발자를 위한 도구들을 정리한 사이트
+- [Find Last Lab](https://github.com/lms0806/find_last_lib) - Rust 프로젝트가 사용하는 라이브러리들의 가장 최신 버전 출력 (MSRV)
+- [Tertirs](https://github.com/lms0806/console_tetris) - 콘솔창으로 플레이하는 테트리스
+- [Easy Git](https://github.com/lms0806/easy_git) - git을 사용하기 가벼운 데스크톱 애플리케이션
+- [Search Open Source](https://github.com/lms0806/Search_Open_Source) - 처음 시작하기 좋은 이슈들을 찾기 위한 사이트
+- [Algorithm](https://github.com/lms0806/algorithm) - 풀었던 문제들의 코드들을 확인하는 사이트
+- [Telephony](https://github.com/lms0806/Telephony) - Rust로 만든 통화 서버 클라 프로그램
+
 
 ## 경력
 | 회사 | 근무 |
