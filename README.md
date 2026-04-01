@@ -41,6 +41,9 @@
 - [Algorithm](https://github.com/lms0806/algorithm) - 풀었던 문제들의 코드들을 확인하는 사이트
 - [Telephony](https://github.com/lms0806/Telephony) - Rust로 만든 통화 서버 클라 프로그램
 
+## 팀 프로젝트
+- [melog](https://melog.site) - Rust 백엔드, Ts 프론트로 이루어진 [메이플스토리 캐릭터 조회 서비스](https://openapi.nexon.com/ko/curation-app/252215/)
+
 
 ## 경력
 | 회사 | 근무 |
