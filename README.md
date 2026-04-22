@@ -16,7 +16,12 @@
 
 <a href="https://solved.ac/lms0806" target="_blank"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lms0806" alt="solved.ac profile"/></a>
 
+![lms0806's GitHub stats](https://github-readme-stats.vercel.app/api?username=lms0806&show_icons=true&theme=radical)
+
 [![Git Ranker](https://www.git-ranker.com/api/v1/badges/MDQ6VXNlcjQyMTM2MDU2)](https://www.git-ranker.com/users/lms0806)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lms0806&layout=compact)
+
 
 ## 나는 누구?
 - [Portfolio](https://lms0806.vercel.app)
