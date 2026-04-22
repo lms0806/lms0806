@@ -14,10 +14,7 @@
   <img src="https://img.shields.io/badge/-React.js-yellow"/>&nbsp
  </p>
 
-<div align="left">
-	<a href="https://solved.ac/lms0806" target="_blank"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lms0806" alt="solved.ac profile"/></a>
-	<a href="https://solved.ac/lms0806" target="_blank"><img src="http://mazandi.herokuapp.com/api?handle=lms0806" alt="mazandi profile"/></a>
-</div>
+<a href="https://solved.ac/lms0806" target="_blank"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lms0806" alt="solved.ac profile"/></a>
 
 [![Git Ranker](https://www.git-ranker.com/api/v1/badges/MDQ6VXNlcjQyMTM2MDU2)](https://www.git-ranker.com/users/lms0806)
 
