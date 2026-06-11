@@ -28,6 +28,12 @@
 - [Linkedin](https://www.linkedin.com/in/minsu-lim-8b798b268)
 - [Blogs](https://lms0806.tistory.com)
 
+## Open Source Contributor
+- [serde_with](https://github.com/jonasbb/serde_with/pulls?q=is%3Amerged+author%3Alms0806+)
+- [rust](https://github.com/rust-lang/rust/pulls?q=is%3Amerged+author%3Alms0806+)
+- [reqwest](https://github.com/seanmonstar/reqwest/pulls?q=is%3Apr+author%3Alms0806+is%3Amerged+)
+- [roguekit](https://github.com/utilForever/roguekit/pulls?q=is%3Amerged+author%3Alms0806+)
+
 ## 프로젝트
 - [Brick-breaker](https://github.com/lms0806/-Brick-breaker) - Python pygame으로 만든 벽돌깨기
 - [Socket Chat](https://github.com/lms0806/socket_chat) - Rust로 만든 채팅 서버 클라 프로그램
